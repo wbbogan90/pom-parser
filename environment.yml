@@ -1,0 +1,4 @@
+name: parser
+dependencies:
+  - python=3.11
+  - requests
